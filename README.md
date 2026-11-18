@@ -22,7 +22,7 @@ Este trabajo presenta la creación y configuración de una máquina virtual con 
 ## Contenido de la carpeta de entrega
 
 - **TPI_AYSO_LUCERO.pdf:** desarrollo teórico, procedimiento práctico, capturas, resultados y conclusiones.
-- **Video_TPI_Debian13.mp4:** presentación oral y demostración del funcionamiento de la máquina virtual.
+- **Video_TPI_LUCERO.mp4:** presentación oral y demostración del funcionamiento de la máquina virtual. lINK: https://drive.google.com/file/d/1WIl2v7iLAydH6IwHkd2h9wwc6uUbMtGz/view?usp=drive_link
 - **Presentacion_TPI_Debian13.pptx:** diapositivas utilizadas durante la exposición.
 - **README.md:** descripción y guía de los archivos entregados.
 
@@ -42,3 +42,5 @@ Los nombres indicados son los sugeridos para organizar la entrega; deben coincid
 3. Consultar el PowerPoint como apoyo visual de la exposición.
 
 **Nota:** La carpeta contiene la documentación y las evidencias del trabajo. No incluye una exportación de la máquina virtual ni archivos de código de una aplicación, porque el objetivo del práctico fue instalar, configurar y administrar un sistema operativo y sus servicios.
+
+LINK DE VIDEO: https://drive.google.com/file/d/1WIl2v7iLAydH6IwHkd2h9wwc6uUbMtGz/view?usp=drive_link
