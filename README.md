@@ -21,7 +21,7 @@ Este trabajo presenta la creación y configuración de una máquina virtual con 
 
 ## Contenido de la carpeta de entrega
 
-- **Informe_TPI_Debian13.pdf:** desarrollo teórico, procedimiento práctico, capturas, resultados y conclusiones.
+- **TPI_AYSO_LUCERO.pdf:** desarrollo teórico, procedimiento práctico, capturas, resultados y conclusiones.
 - **Video_TPI_Debian13.mp4:** presentación oral y demostración del funcionamiento de la máquina virtual.
 - **Presentacion_TPI_Debian13.pptx:** diapositivas utilizadas durante la exposición.
 - **README.md:** descripción y guía de los archivos entregados.
